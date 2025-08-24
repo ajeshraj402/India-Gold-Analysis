@@ -27,7 +27,7 @@ This project dives deep into India's obsession with gold using **data from 2010 
 
 ## 🔗 Read the Full Story
 
-📖 [**Medium Article**](https://medium.com/@yourusername/gold-data-analysis)  
+📖 [**Medium Article**](https://medium.com/@ajeshraj402/gold-a-timeless-treasure-a-data-driven-look-at-indias-obsession-with-gold-9236ef2f62bb)  
 🔗 [**Connect on LinkedIn**](https://www.linkedin.com/in/yourusername)
 
 ---
