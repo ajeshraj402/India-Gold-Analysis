@@ -20,7 +20,7 @@ This project dives deep into India's obsession with gold using **data from 2010 
 
 | Medium Article | Kaggle Notebook |
 |----------------|-----------------|
-| [![Medium](https://img.shields.io/badge/Read-Medium--Post-blue?style=for-the-badge&logo=medium)]([https://medium.com/@yajeshraj402/gold-data-analysis](https://medium.com/@ajeshraj402/gold-a-timeless-treasure-a-data-driven-look-at-indias-obsession-with-gold-9236ef2f62bb)) | [![Kaggle](https://img.shields.io/badge/View-Kaggle--Notebook-20beff?style=for-the-badge&logo=kaggle)](https://kaggle.com/ajeshthangaraj/gold-data-analysis) |
+| [![Medium](https://img.shields.io/badge/Read-Medium--Post-blue?style=for-the-badge&logo=medium)]([https://medium.com/@yajeshraj402/gold-data-analysis](https://medium.com/@ajeshraj402/gold-a-timeless-treasure-a-data-driven-look-at-indias-obsession-with-gold-9236ef2f62bb)) | [![Kaggle](https://img.shields.io/badge/View-Kaggle--Notebook-20beff?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/ajeshthangaraj/india-gold-analysis) |
 
 
 ---
